@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-26T06:55:45Z" name="Command line suite" finished-at="2022-09-26T06:57:30Z" duration-ms="105395">
+    <groups>
+    </groups>
+    <test started-at="2022-09-26T06:55:45Z" name="Command line test" finished-at="2022-09-26T06:57:30Z" duration-ms="105395">
+      <class name="com.blogspot.qa.Test.UrlTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.blogspot.qa.Test.UrlTest@57ecf]" started-at="2022-09-26T12:26:38Z" name="setup" finished-at="2022-09-26T12:27:19Z" duration-ms="41752" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="urlTest()[pri:0, instance:com.blogspot.qa.Test.UrlTest@57ecf]" started-at="2022-09-26T12:27:19Z" name="urlTest" finished-at="2022-09-26T12:27:28Z" duration-ms="8583" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.blogspot.qa.Test.UrlTest@57ecf]" started-at="2022-09-26T12:27:28Z" name="teardown" finished-at="2022-09-26T12:27:30Z" duration-ms="2170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.blogspot.qa.Test.UrlTest -->
+      <class name="com.blogspot.qa.Test.ManagerTest">
+        <test-method signature="chromeTest()[pri:0, instance:com.blogspot.qa.Test.ManagerTest@eac852]" started-at="2022-09-26T12:25:45Z" name="chromeTest" finished-at="2022-09-26T12:26:38Z" duration-ms="52836" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chromeTest -->
+      </class> <!-- com.blogspot.qa.Test.ManagerTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

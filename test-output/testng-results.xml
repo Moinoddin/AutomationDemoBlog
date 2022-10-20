@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-09T17:20:33Z" name="Default suite" finished-at="2022-10-09T17:20:53Z" duration-ms="19845">
+    <groups>
+    </groups>
+    <test started-at="2022-10-09T17:20:33Z" name="Default test" finished-at="2022-10-09T17:20:53Z" duration-ms="19845">
+      <class name="com.blogspot.qa.Test.ManagerTest">
+        <test-method signature="chromeTest()[pri:0, instance:com.blogspot.qa.Test.ManagerTest@1b2bbc3]" started-at="2022-10-09T22:50:33Z" name="chromeTest" finished-at="2022-10-09T22:50:53Z" duration-ms="19739" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chromeTest -->
+      </class> <!-- com.blogspot.qa.Test.ManagerTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

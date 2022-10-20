@@ -1,0 +1,3 @@
+com\automate\qa\configutil\PropConfig.class
+com\automate\qa\baseclass\BaseClass.class
+com\automate\qa\pageclassobject\WebTableElements.class
